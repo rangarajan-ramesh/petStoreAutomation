@@ -1,0 +1,24 @@
+15:06:58.794 [main] INFO  api.tests.UserTests - User starts to create
+15:07:03.115 [main] INFO  api.tests.UserTests - User Created
+15:07:03.134 [main] INFO  api.tests.UserTests - Get User
+15:07:04.295 [main] INFO  api.tests.UserTests - Got the users
+15:07:04.303 [main] INFO  api.tests.UserTests - Updatig the user
+15:07:05.450 [main] INFO  api.tests.UserTests - User got updated
+15:07:05.454 [main] INFO  api.tests.UserTests - Deleting the user
+15:07:06.559 [main] INFO  api.tests.UserTests - User got deleted
+21:36:16.904 [main] INFO  api.tests.UserTests - User starts to create
+21:36:21.239 [main] INFO  api.tests.UserTests - User Created
+21:36:21.254 [main] INFO  api.tests.UserTests - Get User
+21:36:22.791 [main] INFO  api.tests.UserTests - Got the users
+21:36:22.793 [main] INFO  api.tests.UserTests - Updatig the user
+21:36:23.946 [main] INFO  api.tests.UserTests - User got updated
+21:36:23.948 [main] INFO  api.tests.UserTests - Deleting the user
+21:36:25.068 [main] INFO  api.tests.UserTests - User got deleted
+21:38:30.135 [main] INFO  api.tests.UserTests - User starts to create
+21:38:33.419 [main] INFO  api.tests.UserTests - User Created
+21:38:33.434 [main] INFO  api.tests.UserTests - Get User
+21:38:34.609 [main] INFO  api.tests.UserTests - Got the users
+21:38:34.615 [main] INFO  api.tests.UserTests - Updatig the user
+21:38:35.724 [main] INFO  api.tests.UserTests - User got updated
+21:38:35.728 [main] INFO  api.tests.UserTests - Deleting the user
+21:38:36.902 [main] INFO  api.tests.UserTests - User got deleted
